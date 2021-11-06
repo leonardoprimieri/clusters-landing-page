@@ -109,4 +109,43 @@ export const Styles = createGlobalStyle`
     .ant-drawer-content-wrapper {
         width: 300px !important;
     }
+
+    .members_ul {
+        li {
+            font-size: large;
+        }
+    }
+
+    .lp-slide {
+        margin: 0 10rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:center;
+        text-align:center;
+        color: #18216d;
+        gap:2rem;
+        font-size: 1.3rem;
+
+        img {
+            width: 100%;
+            max-width: 30rem;
+        }
+    }
+
+    .awssld__content {
+        background-color: #FFF !important;
+    }
+    .awssld__controls__arrow-left:before, .awssld__controls__arrow-right:before, .awssld__controls__arrow-left:after, .awssld__controls__arrow-right:after  {
+        background:#18216d !important;
+    }
+
+    .awssld__bullets .awssld__bullets--active {
+        background: #18216d !important;
+    }
+
+    .awssld__bullets button {
+        background: #5D21D1 !important;
+    }
+
 `;

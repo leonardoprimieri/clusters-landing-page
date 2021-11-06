@@ -12,14 +12,7 @@ import {
   MinPara,
 } from "./styles";
 
-const LeftContentBlock = ({
-  icon,
-  title,
-  content,
-  section,
-  t,
-  id,
-}: ContentBlockProps) => {
+const LeftContentBlock = ({ icon, title, content, section, t, id }: ContentBlockProps) => {
   return (
     <LeftContentSection>
       <Fade direction="left">

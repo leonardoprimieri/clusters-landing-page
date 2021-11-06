@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Qual o futuro da computação em nuvem e clusters?",
+  "text": "Segundo pesquisa feita pela Google, Future of Cloud Computing confirma que até 2029, 70% das empresas vão estar ligadas a serviços de nuvem. ",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Porque a computação em nuvem é necessária?",
+      "content": "De acordo com o crescimento das empresas, o uso de computação em nuvem se torna necessária para suprir as necessidades de cada negócio. Consequentemente os serviços Cloud irão crescer junto para poder atender toda essa clientela que irá entrar para o ramo.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "O que o futuro promete?",
+      "content": "O Futuro também promete redução de custos para os usuários e empresas, com o avanço da agilidade nas nuvens, as organizações prestadoras desses serviços buscam sempre melhorias em seu atendimento e soluções",
       "icon": "notes.svg"
     }
   ]
