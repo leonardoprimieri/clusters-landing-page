@@ -1,13 +1,4 @@
 {
   "title": "Trabalho de Cluster e Cloud",
-  "text": "Este trabalho tem como objetivo apresentar a visão do grupo sobre o futuro da computação em nuvem, e também mostrar o passo a passo de uma implementação cluster na prática.",
-  "button": [
-    {
-      "title": "Passo a passo Cluster"
-    },
-    {
-      "title": "Futuro do Cloud",
-      "color": "#fff"
-    }
-  ]
+  "text": "Este trabalho tem como objetivo apresentar a visão do grupo sobre o futuro da computação em nuvem, e também mostrar o passo a passo de uma implementação cluster na prática."
 }
